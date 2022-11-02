@@ -48,8 +48,8 @@ function Navbar() {
         <div class="row  mt-5 ">
 
           <div class="col-8 mt-5 mx-5 ">
-            <h4>We are the wonder of your weekned</h4>
-            <h1 class="display-1 heading-homepage">Discover the world with our guide.</h1>
+            <h4 itemProp='title'>We are the wonder of your weekned</h4>
+            <h1 class="display-1 heading-homepage" itemProp='title'>Discover the world with our guide.</h1>
             <button class="main-btn mb-5">start tour</button>
           </div>
         </div>
