@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <div>
-      <section class="home d-flex mt-0 mb-5">
+      <section class="home d-flex mt-0 mb-5 home-size">
     <div class="container">
       <div class="row">
         <nav class="navbar navbar-expand-lg navbar-light bg-transparent  mx-auto ">

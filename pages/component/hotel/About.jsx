@@ -11,7 +11,7 @@ function About() {
         <div class="row align-items-center">
           <div class="col-lg-6 col-md-12 mb-lg-0 mb-5 ">
             <div class="card border-0">
-              <Image src={Image1} alt="" className='im-1'></Image>
+              <Image src={Image1} alt="" className='img-fluid'></Image>
             </div>
           </div>
           <div class="col-lg-5 col-md-12 text-sec ms-auto">
