@@ -14,7 +14,7 @@ export default function Home() {
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta property="og:title" content="Desert Safari | Jaisalmer Desert Safari | Desert Safari Jaisalmer" key="title" />
         <meta property="og:description" content="Located amidst the wide region of Great Indian Desert, we offers you an exclusive stay where you can enjoy an exciting camel safari to sunset point. Get to enjoy the Rajasthani Folk dance and music. Get to explore the traditional Rajasthani cuisine" key="desc" />
-        <meta property='og:keywords' content="Desert Safari, Jaisalmer Desert Safari, Campfire, Jaisalmer Best Desert Safari, Jaisalmer Desert Safari tour, Camel Riding, Traditional music and folk dance, Sightseeing, Best Desert Safari, Desert Jeep Dune Bashing, Khabha Tour " key="keywords" />
+        <meta property='og:keywords' content="Desert Safari, Jaisalmer Desert Safari, Campfire, Jaisalmer Best Desert Safari, Jaisalmer Desert Safari tour, Camel Riding, Traditional music and folk dance, Sightseeing, Best Desert Safari, Desert Jeep Dune Bashing, Khaba Fort Tour " key="keywords" />
 
       </Head>
       <Navbar />
